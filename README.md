@@ -4,19 +4,24 @@
 
 A collection of short notes on things I learn across various languages and technologies. These are short notes that don't warrant a full blog post. In keeping the notes short it will reduce the barrier of entry to write these more often.
 
-_1 TIL and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
 - [Mac](#mac)
+- [Python](#python)
 
 ---
 
 ### Mac
 
 - [Clean Up Old Homebrew Install Files](mac/clean-up-old-homebrew-install-files.md)
+
+### Python
+
+- [Copy to Clipboard in Python](python/copy-to-clipboard-in-python.md)
 
 ## About
 
